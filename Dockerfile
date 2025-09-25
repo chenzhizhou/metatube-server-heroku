@@ -1,1 +1,1 @@
-FROM jvt038/metatube:latest
+FROM javtube/javtube-server:latest
