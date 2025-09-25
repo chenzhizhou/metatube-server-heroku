@@ -1,1 +1,1 @@
-FROM metatube/metatube-server:latest
+FROM jvt038/metatube:latest
