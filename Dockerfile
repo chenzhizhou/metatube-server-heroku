@@ -1,1 +1,1 @@
-FROM yanglin92/metatube-server
+FROM javtube/javtube-server:latest
